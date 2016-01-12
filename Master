@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	
+<link rel="stylesheet" href="http://www.superdwayne.co.uk/IOWA/style.css" type="text/css" />	
+	
+<title>IOWA</title>	
+	
+</head>
+	
+<body>
+
+<section id="container">
+
+<header>
+	
+	<img src="header.jpg" alt="How can we help?" title="How can we help?" /> 
+	
+	<nav>
+		<ul>
+			<li><a href="#">Blog</a></li>
+			<li><a href="#">Contact</a></li>
+			<li id="login"><a href="#">Log in</a></li>
+		</ul>
+			
+	</nav>
+	
+</header>
+
+<section id="navandco">
+	<nav>
+		<ul>
+			<li><a href="#">Section</a></li>
+			<li><a href="#">Section</a></li>
+			<li><a href="#">Section</a></li>
+		</ul>	
+	</nav>
+	
+	<aside class="fr">
+		<p class="fl">Call us on 800 205 5535</p>
+		<img src="mockup_03.jpg" alt="mockup_03" width="" height="" />
+	</aside>
+</section>
+
+<section id="bodycopy">
+
+	<aside>
+		<h1>You know.. We are absolutely<br /> awesome </h1>
+		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores ausLorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores ausLorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores ausLorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores ausLorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores</p>
+	</aside>	
+	
+	<img src="money.png" alt="Money" width="" height="" />
+
+</section>
+
+
+</section><!-- end of body -->
+
+<section id="steps">
+	
+	<div class="stepgroup">
+		<h3>Step 1</h3>
+		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
+	</div>
+	
+	<div class="stepgroup" >
+		<h3>Step 2</h3>
+		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
+	</div>
+	
+	<div class="stepgroup">
+		<h3>Step 3</h3>
+		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
+	</div>
+
+</section>
+
+<section id="usp">
+
+	<h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</h1>
+
+</section>
+
+
+<footer>
+
+	<section id="signup">
+	
+	<h1>Sign up right now</h1>
+	
+	<form>
+		<input type="email" value="Your email">
+		<input type="password" value="Password">
+		<input type="text" value="Confirmation">
+		<button type="submit">Sign up</button>
+	</form>
+	
+	<p class="mob">Give us a call</p> 
+	<a class="mob" href="tel:+0800 205 5535">0800 205 5535</a>
+	
+	</section>
+	
+	<section class="footnav">
+	
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Blog</a></li>
+			<li><a href="#">Portfolio</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+		
+		<ul id="icons">
+				<li ><a herf="#"><img src="T.gif" alt="" title=""></a></li>
+				<li ><a herf="#"><img src="F.gif" alt="" title=""></a></li>
+				<li ><a herf="#"><img src="I.gif" alt="" title=""></a></li>	
+		</ul>
+
+	</nav>
+
+	</section>
+	
+	<p>iwoca Ltd is authorised and regulated by the Financial Conduct Authority for consumer credit. Interim licence number: 647963</p>
+	
+
+</footer>
+
+
+</body>
+
+</html>
