@@ -64,18 +64,22 @@
 <section id="steps">
 	
 	<div class="stepgroup">
-		<h3>Step 1</h3>
-		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
-	</div>
+		
+		<span>	
+			<h3>Step 1</h3>
+			<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
+		</span>
+		
+		<span>	
+			<h3>Step 2</h3>
+			<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
+		</span>
+		
+		<span>
+			<h3>Step 3</h3>
+			<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
+		</span>
 	
-	<div class="stepgroup" >
-		<h3>Step 2</h3>
-		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
-	</div>
-	
-	<div class="stepgroup">
-		<h3>Step 3</h3>
-		<p>Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum lores aus Lorepsum ipsum </p>
 	</div>
 
 </section>
